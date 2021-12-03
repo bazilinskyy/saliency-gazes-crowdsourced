@@ -1,0 +1,2 @@
+analysis==0.1.7
+logmod==0.1
