@@ -19,5 +19,5 @@ secret
 !__init__.py
 
 # Pickle files
-saliency/analysis/*.p
-saliency/*.p
+salgazes/analysis/*.p
+salgazes/*.p
